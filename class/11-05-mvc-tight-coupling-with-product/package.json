@@ -1,0 +1,7 @@
+{
+    "name": "11-05-mvc-tight-coupling-with-product",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "type": "module"
+}
