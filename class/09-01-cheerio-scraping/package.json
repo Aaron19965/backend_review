@@ -2,7 +2,6 @@
     "type": "module",
     "dependencies": {
         "axios": "^0.27.2",
-        "cheerio": "^1.0.0-rc.12",
-        "puppeteer": "^17.1.2"
+        "cheerio": "^1.0.0-rc.12"
     }
 }
