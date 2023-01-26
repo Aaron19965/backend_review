@@ -1,0 +1,2 @@
+# 기존에 있는 node_modules 폴더 복사 방지를 위해 설정
+node_modules
